@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @max-z00 I have a twitter with the same handle.
+- 👋 Hi, I’m @max-z00 and I am a wannabe programmer.
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently working towards my Computer Science B.S.
 - 💞️ I’m looking to collaborate on a bunch of different projects... i.e. learning Cryptography, Malware, and software.
