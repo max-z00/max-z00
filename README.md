@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @max-z00 and I am a wannabe programmer.
-- 👀 I’m interested in programming. 
-- 🌱 I’m currently working towards my Computer Science B.S.
+- 👋 Hi, I’m @max-z00.
+- 👀 I’m interested in cybersecurity/many things. 
+- 🌱 I’m currently working towards my $$$.
 - 💞️ I’m looking to collaborate on a bunch of different projects... i.e. learning Cryptography, Malware, and software.
 - 📫 How to reach me Email me: ingedingo@gmail.com    ;last updated 5/11/2022
 
